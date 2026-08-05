@@ -63,7 +63,8 @@ Upload screenshots of your dashboard here.
 
 Example:
 
-![Dashboard](images/Dashboard.png)
+![Dashboard](images/<img width="1388" height="665" alt="Dashboard" src="https://github.com/user-attachments/assets/a80c5cb1-3e0b-4b1a-b727-166519f067a8" />
+)
 
 ---
 
